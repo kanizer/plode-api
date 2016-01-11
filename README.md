@@ -5,7 +5,7 @@ CMS for portfolio project.
 WIP
 
 ### TODO
-- [] Setup DB
-- [] Add project
-- [] Delete project
-- [] Modify project
+- [ ] Setup DB
+- [ ] Add project
+- [ ] Delete project
+- [ ] Modify project
